@@ -1,4 +1,13 @@
 body {
-background-color: #ffff;
-color: yellow;
+  margin: auto;
+}
+
+.title1 {
+  background-color: blue;
+  color: yellow;
+}
+
+.title2 {
+  background-color: yellow;
+  color: blue;
 }
