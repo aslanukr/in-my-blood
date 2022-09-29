@@ -4,12 +4,20 @@ body {
 
 .title1 {
   background-color: blue;
-  color: yellow;
   margin: auto;
 }
 
 .title2 {
   background-color: yellow;
-  color: blue;
   margin: auto;
+}
+
+.title-text1 {
+  color: yellow;
+  margin: 0 350px;
+}
+
+.title-text2 {
+  color: blue;
+  margin: 0 400px;
 }
