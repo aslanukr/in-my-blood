@@ -2,6 +2,12 @@ body {
   margin: auto;
 }
 
+.image {
+  margin-top: 50px;
+  margin-left: 150px;
+  margin-bottom: 10px;
+}
+
 .title1 {
   background-color: blue;
   margin: auto;
@@ -14,10 +20,16 @@ body {
 
 .title-text1 {
   color: yellow;
-  margin: 0 350px;
+  margin: 0 0 0 350px;
+  font-size: 70px;
+  font-family: "Exo 2", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
 
 .title-text2 {
   color: blue;
-  margin: 0 400px;
+  margin: 0 0 0 450px;
+  font-size: 70px;
+  font-family: "Exo 2", sans-serif;
+  font-family: "Montserrat", sans-serif;
 }
