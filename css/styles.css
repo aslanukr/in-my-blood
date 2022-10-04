@@ -5,9 +5,9 @@ body {
 }
 
 .image {
-  margin-top: 50px;
+  margin-top: 20px;
   margin-left: 150px;
-  margin-bottom: 50px;
+  margin-bottom: 20px;
 }
 
 .title1 {
@@ -37,8 +37,8 @@ body {
 }
 
 .map {
-  margin-top: 40px;
+  margin-top: 20px;
   margin-left: 800px;
-  margin-bottom: 50px;
+  margin-bottom: 30px;
   width: 400px;
 }
