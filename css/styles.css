@@ -1,49 +1,47 @@
 body {
   margin: auto;
   background-image: url(https://cdna.artstation.com/p/marketplace/presentation_assets/000/550/876/large/file.jpg?1602609366);
+  background-size: cover;
   background-color: yellow;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
+  align-items: baseline;
 }
 
 .image {
-  margin-top: 20px;
+  margin-top: 30px;
   margin-left: 150px;
-  margin-bottom: 20px;
-}
-
-.title1 {
-  background-color: blue;
-  margin: auto;
-}
-
-.title2 {
-  background-color: yellow;
-  margin: auto;
+  margin-bottom: 30px;
 }
 
 .title-text1 {
   color: yellow;
-  margin: 0 0 0 350px;
+  background-color: blue;
   font-size: 70px;
   font-family: "Exo 2", sans-serif;
   font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  padding-left: 450px;
+  margin: 0;
 }
 
 .title-text2 {
   color: blue;
-  margin: 0 0 0 450px;
+  background-color: yellow;
   font-size: 70px;
   font-family: "Exo 2", sans-serif;
   font-family: "Montserrat", sans-serif;
+  font-weight: 700;
+  padding-left: 550px;
+  margin: 0;
 }
 
 .map {
-  margin-top: 20px;
-  margin-left: 800px;
+  margin-top: -180px;
+  margin-left: 70px;
   margin-bottom: 30px;
-  width: 400px;
+  width: 350px;
 }
